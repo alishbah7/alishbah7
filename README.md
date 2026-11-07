@@ -231,22 +231,6 @@ A modern fashion storefront featuring product collections, new arrivals, promoti
 
 ---
 
-## ✦ GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alishbah7&show_icons=true&hide_border=true&bg_color=0D0618&title_color=C66AFF&icon_color=B84DFF&text_color=E9DDF5&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishbah7&layout=compact&hide_border=true&bg_color=0D0618&title_color=C66AFF&text_color=E9DDF5" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=alishbah7&theme=midnight-purple&hide_border=true&background=0D0618&ring=C66AFF&fire=B84DFF&currStreakLabel=C66AFF" />
-
-</div>
-
----
-
 ## ✦ Contribution Graph
 
 <div align="center">

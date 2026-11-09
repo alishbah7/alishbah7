@@ -1,12 +1,13 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0618,50:54118B,100:B84DFF&height=190&section=header&text=ALISHBAH&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Developer&descAlignY=60&descSize=16)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0618,50:54118B,100:B84DFF&height=190&section=header&text=ALISHBAH&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=AI%20Product%20Builder%20%7C%20Agentic%20AI%20Developer&descAlignY=60&descSize=16)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=25&duration=3000&pause=1000&color=C66AFF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Software+That+Works+24%2F7;Full+Stack+Developer;Agentic+AI+Developer;AI+Automation+Enthusiast;Turning+Ideas+Into+Intelligent+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=25&duration=3000&pause=1000&color=C66AFF&center=true&vCenter=true&width=700&lines=Building+Super+Smart+AI+Products;AI+Product+Builder;Agentic+AI+Developer;AI-Assisted+Application+Development;Turning+Ideas+Into+Intelligent+Products" alt="Typing SVG" />
 
-### I Build Intelligent Software That Works 24/7 ✨
+### I Build Super Smart AI Products ✨
 
-Developer focused on autonomous AI agents, high-performance web applications, and intelligent workflow automation. I love transforming complex ideas into scalable, user-friendly digital products.
+AI Product Builder focused on transforming ideas into intelligent digital products through structured planning and AI-assisted development. Building AI-powered applications, autonomous agents, modern web experiences, and intelligent automation solutions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-alishbah7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alishbah7)
 
@@ -16,14 +17,14 @@ Developer focused on autonomous AI agents, high-performance web applications, an
 
 ## ✦ About Me
 
-- 💜 I'm **Alishbah**, a developer passionate about building intelligent digital experiences.
-- 🚀 Specialized in Full Stack Development, Agentic AI Development, and AI Automation.
-- 🤖 Building AI-powered applications, autonomous agents, and intelligent chatbots.
-- 🌐 Developing responsive, modern, and high-performance web applications.
-- ⚡ Exploring LLM integrations, AI workflows, and automation solutions.
-- ✨ Focused on clean code, intuitive UI/UX, and scalable architecture.
+- 💜 I'm **Alishbah**, an AI Product Builder & Agentic AI Developer passionate about building intelligent digital experiences.
+- 🚀 Specialized in AI-assisted product development, Agentic AI, and intelligent automation.
+- 🤖 Building AI-powered applications, intelligent agents, RAG systems, and chatbots.
+- 🌐 Creating modern, responsive web applications through structured planning and AI-assisted development.
+- ⚡ Exploring LLM integrations, embeddings, vector databases, AI memory, and tool calling.
+- ✨ Focused on product innovation, intuitive UI/UX, and launching super-smart AI products.
 
-**My goal:** Build intelligent software that solves real-world problems and works 24/7.
+**My goal:** Transform ideas into intelligent digital products and bring them from concept to deployment.
 
 ---
 
@@ -33,16 +34,16 @@ Developer focused on autonomous AI agents, high-performance web applications, an
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Full Stack Development
+### 💡 AI Product Building
 
-- Responsive website development
-- Modern UI/UX implementation
-- Frontend and backend architecture
-- REST API development and integration
-- Authentication and user management
-- Database design and integration
-- Payment gateway integration
-- Production deployment
+- End-to-end product planning
+- Product requirements and feature planning
+- Visual direction and UI/UX planning
+- AI-assisted application development
+- Detailed prompt engineering
+- Implementation oversight and troubleshooting
+- API and third-party integrations
+- Application deployment
 
 </td>
 <td width="50%" valign="top">
@@ -54,8 +55,8 @@ Developer focused on autonomous AI agents, high-performance web applications, an
 - LLM integrations
 - RAG-based applications
 - Context-aware AI assistants
-- Automated customer support
-- FAQ and product recommendation systems
+- AI memory and embeddings
+- Tool calling and multi-step reasoning
 - Chainlit and Streamlit applications
 
 </td>
@@ -78,6 +79,7 @@ Developer focused on autonomous AI agents, high-performance web applications, an
 ### ✨ AI Prompt Engineering
 
 - Advanced prompt design
+- AI development instructions
 - LLM response optimization
 - Structured prompt workflows
 - Context engineering
@@ -99,21 +101,29 @@ Developer focused on autonomous AI agents, high-performance web applications, an
 
 **Also working with:** shadcn/ui, DaisyUI, AOS, GSAP, SwiperJS.
 
-### Backend & Databases
+### Backend Technologies & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,php,fastapi,nodejs,mongodb,mysql,postgres,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,php,fastapi,nodejs&theme=dark" />
 </p>
 
-**Also working with:** REST APIs, SQL, Neon PostgreSQL.
+**Also working with:** REST APIs, API integrations, authentication, authorization, third-party services.
 
-### AI & Machine Learning
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" />
+</p>
+
+**Also working with:** SQL, Neon PostgreSQL, database integrations.
+
+### AI & Agentic AI Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=openai,python&theme=dark" />
 </p>
 
-**AI Technologies:** OpenAI SDK, Gemini Models, Claude Models, LLMs, Agentic AI, RAG, Chainlit, Streamlit.
+**AI Technologies:** OpenAI SDK, Gemini Models, Claude Models, LLMs, Agentic AI, LangChain, RAG, Embeddings, Vector Databases, AI Memory, Tool Calling, Chainlit, Streamlit.
 
 ### Authentication, Payments & Services
 
@@ -131,7 +141,7 @@ Developer focused on autonomous AI agents, high-performance web applications, an
 <img src="https://skillicons.dev/icons?i=vercel,railway,git,github,vscode,docker&theme=dark" />
 </p>
 
-**Also working with:** Railway Deployment, Vercel Deployment, OpenAI SDK, REST API integrations.
+**Also working with:** Railway Deployment, Vercel Deployment, CLI Tools, AI Development Platforms, REST API integrations.
 
 ---
 
@@ -140,14 +150,15 @@ Developer focused on autonomous AI agents, high-performance web applications, an
 ### 01. NestlyFlow
 **AI-Powered Task Management Application**
 
-A full-stack productivity platform that combines task management, secure authentication, a responsive dashboard, and a conversational AI chatbot that helps users manage tasks through natural-language requests.
+An AI-powered productivity platform that combines task management, secure authentication, a responsive dashboard, and a conversational AI agent that helps users manage tasks through natural-language requests.
 
 **Key Features**
 - AI-powered conversational task management.
-- Create, update, view, and delete tasks.
+- Tool calling for task CRUD operations.
+- Create, update, view, and delete tasks through AI interactions.
 - Secure authentication and user dashboard.
 - Responsive user interface.
-- Full-stack API architecture.
+- Full-stack application with API integrations.
 
 **Tech Stack:** Next.js · TypeScript · Python · FastAPI · PostgreSQL · Neon · Resend · Groq
 
@@ -158,7 +169,7 @@ A full-stack productivity platform that combines task management, secure authent
 ### 02. HumanoVerse
 **AI-Powered Interactive Textbook Platform**
 
-An intelligent learning platform designed to make education more accessible and personalized through RAG-powered AI assistance, context-aware textbook answers, and Urdu translation.
+An intelligent educational platform designed to make learning more accessible through RAG-powered AI assistance, context-aware textbook answers, and Urdu translation.
 
 **Key Features**
 - RAG-powered textbook chatbot.
